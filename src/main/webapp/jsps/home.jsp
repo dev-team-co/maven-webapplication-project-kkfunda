@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK b5 new exclusive batch was started yahoo DevOps</h1>
+<h1 align="center">Welcome to KK b5 new exclusive batch was started 00 DevOps</h1>
 <h1 align="center"> KK FUNDA</h1>
 <hr>
 <br>
