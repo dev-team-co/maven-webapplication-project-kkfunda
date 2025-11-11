@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK B5 new exclusive batch Has started,  DevOps pls join</h1>
+<h1 align="center">Welcome to KK B5 new exclusive batch Has started,  ok  DevOps pls join</h1>
 <h1 align="center"> KK FUNDA</h1>
 <hr>
 <br>
