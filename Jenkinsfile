@@ -1,19 +1,23 @@
-pipeline
+pipeline 
 {
     agent any
-    tools {
-       maven "maven-3.9.8"
+    tools 
+    {
+        maven "maven-3.9.8"
     }
-    stages {
-        stage ('git checkout') {
+    stages 
+    {
+        stage ("gitcheckout")
+        {
             steps {
-                git branch: 'bugfix', url: 'https://github.com/dev-team-co/maven-webapplication-project-kkfunda.git'
+                git branch: 'development', url: 'https://github.com/dev-team-co/maven-webapplication-project-kkfunda.git'
             }
         }
-            stage ('build') {
-                steps {
-                    sh "mvn clean package"
-                }
+        stage ("build")
+        {
+            steps {
+                sh "mvn clean package"
             }
+        }
     }
 }
